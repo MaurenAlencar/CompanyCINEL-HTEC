@@ -3,3 +3,8 @@ The application has the ability to save the date of the transaction, the name of
 
 This project refers to the last stage of the Java course at the Cinel institution, where I obtained the maximum score in the project. 
 ![image](https://github.com/MaurenAlencar/CompanyCINEL-HTEC/assets/125603776/93d412ce-ca83-4337-b614-28a7d60aa81b)
+
+How it works:
+
+https://github.com/MaurenAlencar/CompanyCINEL-HTEC/assets/125603776/758a8375-5bbb-4e0d-9968-831184e41182
+
