@@ -1,0 +1,8 @@
+ 1;Paulo Futre
+ 2;Cristiano Ronaldo
+ 3;João Pinto
+ 4;João Félix
+ 14;iiiiiiiiiiiiii
+ 27;ferreira
+ 25;Lilian
+ 11;Anastacia

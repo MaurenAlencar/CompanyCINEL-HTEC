@@ -1,0 +1,14 @@
+ 03/01/2023;João Félix;322;haste de uso geral 2;18.0;5;90.0;333333333
+ 18/01/2023;iiiiiiiiiiiiii;1022;base giratoria de uso geral;630.5;1;630.5;111444777
+ 06/01/2023;Paulo Futre;3000;básico 3;82.0;2;164.0;987654321
+ 07/01/2023;João Pinto;233;parafuso de fixacao do ventilador;6.0;1;6.0;369852147
+ 12/01/2023;Cristiano Ronaldo;2043;plataforma principal;4381.0;2;8762.0;444444444
+ 04/01/2023;João Félix;511;placa principal;12.0;1;12.0;987654321
+ 12/01/2023;ferreira;321;haste de uso geral 1;20.0;1;20.0;444444444
+ 06/01/2023;Cristiano Ronaldo;41;ggtggg;71.0;2;142.0;147852369
+ 18/01/2023;Paulo Futre;1023;kit de reposicao da plataforma p1;82.5;1;82.5;369852147
+ 30/01/2023;Lilian;1744;iiiiii;1.0;4;4.0;111111111
+ 19/01/2023;Lilian;2043;plataforma principal;4381.0;1;4381.0;111111111
+ 11/01/2023;Paulo Futre;112;motor de avanco do cabecote;500.0;1;500.0;147852369
+ 09/01/2023;ferreira;78;Placa auxiliar 5;1588.0;3;4764.0;333333333
+ 04/01/2023;Anastacia;402;eixo basico 2;31.5;1;31.5;111111111
